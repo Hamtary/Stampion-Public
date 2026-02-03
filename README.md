@@ -24,7 +24,7 @@ Stampion vous permet de collectionner des **tampons virtuels** uniques en explor
 ## ❤️ Soutenir l'aventure
 Développer Stampion (et déployer des tags NFC !) demande du temps et des ressources. Si vous aimez le concept et souhaitez nous aider à conquérir le monde physique, vous pouvez nous soutenir ici :
 
-👉 **[Faire un don pour Stampion][([https://buymeacoffee.com/bokura])]**
+👉 **[Faire un don pour Stampion][([https://buymeacoffee.com/stampion])]**
 
 ---
 
